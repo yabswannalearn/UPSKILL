@@ -1,5 +1,8 @@
 The `ORDER BY` keyword is used to sort the result-set in ascending or descending order.
 
+ASC for ascending
+DESC for descending
+
 ang pag lagay ng column ay importante, for example if nauna mong nilagay ang age (which is usually almost laging unique) hindi na icconsider ang gender.
 
 dapat ganito:

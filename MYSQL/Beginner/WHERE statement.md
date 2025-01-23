@@ -25,3 +25,16 @@ OR NOT gender = 'male'
 ```
 
 
+you can use the [[LIKE statement]] in with WHERE
+and WHERE and [[HAVING statement]] can be together too
+
+example code:
+```
+SELECT occupation, AVG(salary)
+FROM employee_salary
+WHERE occupation LIKE '%manager%'
+GROUP BY occupation
+HAVING AVG(salary) > 75000
+;
+ 
+```
