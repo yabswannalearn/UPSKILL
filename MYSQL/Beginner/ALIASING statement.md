@@ -10,3 +10,4 @@ FROM employee_demographics
 GROUP BY gender
 HAVING avg_age > 40;
 ```
+
