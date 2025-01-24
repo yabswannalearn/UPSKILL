@@ -38,3 +38,8 @@ HAVING AVG(salary) > 75000
 ;
  
 ```
+
+
+[[JOINS statement#^innerjoin |INNER JOIN]]
+
+[[JOINS statement#^self-join |SELF JOIN]]
