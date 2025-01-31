@@ -21,3 +21,6 @@ GROUP BY occupation, salary
 kung ttawagin mo sya sa [[SELECT statement]] (aggregate) dapat ilagay mo rin sya sa GROUP BY.
 
 tapos if 10 ang tao (5 males) (5 females), tapos iccall mo ang male and female, ang output ay dalawa lang which is male and female.
+
+
+count bbilangin kung ilan

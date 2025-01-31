@@ -1,4 +1,4 @@
-There are INNER JOIN and OUTER JOIN
+There are INNER JOIN and OUTER JOIN, they join together columns
 
 [[JOINS statement#^innnerjoin|INNER JOIN]] ay pinagssama ioutput from different tables
 
