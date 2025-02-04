@@ -1,4 +1,5 @@
 cte = common table expression
+using cte  u need to use WITH cluase followed by a parenthesis
 
 para syang subquerry pero mas madaling basahin at intidihin yung syntax nya
 example code:
