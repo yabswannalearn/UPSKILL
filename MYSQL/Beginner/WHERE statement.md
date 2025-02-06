@@ -8,7 +8,7 @@ WHERE salary <= 50000
 
 ```
 
-you can also use AND OR NOT
+you can also use AND, OR ,NOT
 
 ```
 SELECT *
