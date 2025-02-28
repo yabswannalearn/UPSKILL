@@ -24,3 +24,5 @@ tapos if 10 ang tao (5 males) (5 females), tapos iccall mo ang male and female, 
 
 
 count bbilangin kung ilan
+
+ooutput lang ang kung ilan, para di mag doble doble ang output

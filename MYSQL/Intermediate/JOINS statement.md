@@ -75,3 +75,6 @@ INNER JOIN parks_departments AS pd
 ;
 
 ```
+
+CROSS JOIN - which is like making every possible pair of rows from two tables.
+so ang cross join pag ccombine lahat ng possible pair sa dalawang table
