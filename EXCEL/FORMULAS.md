@@ -45,3 +45,7 @@ COUNTIFS
 
 DAYS bbilangin yung days from start date into end date (pero pag gagawin mo, sstart mo sa end date)
 NETWORKDAYS ito naman bbilangin nya rin pero aalisin yung holidays and weekends, sstart mo naman to sa start date papuntang end date
+
+UPPER  - uppercase
+LOWER - lowercase
+PROPER - name format 
