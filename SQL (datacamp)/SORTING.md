@@ -1,0 +1,9 @@
+[[ORDER BY keyword]]
+
+ ![[Pasted image 20250308115013.png]]
+ORDER EXECUTION
+FROM
+WHERE
+SELECT
+ORDER BY
+LIMIT
