@@ -1,4 +1,5 @@
 [[GROUP BY statement]]
+
 ![[Pasted image 20250308115947.png]]
 pwede mo sama with [[ORDER BY keyword]]
 

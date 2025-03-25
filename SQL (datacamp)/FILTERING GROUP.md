@@ -1,4 +1,5 @@
 [[HAVING statement]]
+
 ![[Pasted image 20250308121010.png]]
 order of execution
 FROM
