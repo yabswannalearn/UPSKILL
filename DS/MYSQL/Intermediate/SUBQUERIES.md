@@ -1,4 +1,4 @@
-querry sa loob ng querry
+fquerry sa loob ng querry
 
 
 ```

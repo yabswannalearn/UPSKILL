@@ -9,7 +9,7 @@ There are multiple types of machine learning, and you must apply the appropriate
 
 _Supervised_ machine learning is a general term for machine learning algorithms in which the training data includes both _feature_ values and known _label_ values. Supervised machine learning is used to train models by determining a relationship between the features and labels in past observations, so that unknown labels can be predicted for features in future cases.
 
-### Regression
+### [[Regression]]
 
 _Regression_ is a form of supervised machine learning in which the label predicted by the model is a numeric value. For example:
 
@@ -21,7 +21,7 @@ _Regression_ is a form of supervised machine learning in which the label predic
 
 _Classification_ is a form of supervised machine learning in which the label represents a categorization, or _class_. There are two common classification scenarios.
 
-#### Binary classification
+#### [[Binary classification]]
 
 In _binary classification_, the label determines whether the observed item _is_ (or _isn't_) an instance of a specific class. Or put another way, binary classification models predict one of two mutually exclusive outcomes. For example:
 
@@ -31,7 +31,7 @@ In _binary classification_, the label determines whether the observed item _is
 
 In all of these examples, the model predicts a binary _true_/_false_ or _positive/negative_ prediction for a single possible class.
 
-#### Multiclass classification
+#### [[Multiclass classification]]
 
 _Multiclass classification_ extends binary classification to predict a label that represents one of multiple possible classes. For example,
 
@@ -44,7 +44,7 @@ In most scenarios that involve a known set of multiple classes, multiclass class
 
 _Unsupervised_ machine learning involves training models using data that consists only of _feature_ values without any known labels. Unsupervised machine learning algorithms determine relationships between the features of the observations in the training data.
 
-### Clustering
+### [[Clustering]]
 
 The most common form of unsupervised machine learning is _clustering_. A clustering algorithm identifies similarities between observations based on their features, and groups them into discrete clusters. For example:
 

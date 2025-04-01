@@ -1,6 +1,6 @@
 
 ![[Pasted image 20250325100104.png]]
-[[SUBQUERIES]]
+[[UPSKILL/DS/MYSQL/Intermediate/SUBQUERIES]]
 ![[Pasted image 20250325095229.png]]
 
 anti join
@@ -9,7 +9,7 @@ anti join
 ![[Pasted image 20250325095332.png]]
 ![[Pasted image 20250325101230.png]]
 
-[[SUBQUERIES]] with [[WHERE statement]]
+[[UPSKILL/DS/MYSQL/Intermediate/SUBQUERIES]] with [[WHERE statement]]
 ![[Pasted image 20250325101258.png]]
 ![[Pasted image 20250325101316.png]]
 
