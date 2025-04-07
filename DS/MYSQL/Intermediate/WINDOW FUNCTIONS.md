@@ -95,3 +95,6 @@ JOIN employee_salary sal
 ```
 
 in this code we have DENSE_RANK() kung saan kapag nag unlike sa rank() which pag nag duplicate ay ttuloy lang sa pagbilang, dito naman mag ddoble tapos mag bbilang ng kasunod na number. example is if duplicate ang 5 next row ay 6 na. sa RANK() kasi ay pag nag duplicat ang 5, next number ay 7 na
+
+https://www.youtube.com/watch?v=rIcB4zMYMas
+great yt vid tutorial
