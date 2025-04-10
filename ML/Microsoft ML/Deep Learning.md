@@ -1,13 +1,11 @@
-# Deep learning
+# Deep learning[^1]
 
 _Deep learning_ is an advanced form of machine learning that tries to emulate the way the human brain learns. The key to deep learning is the creation of an artificial _neural network_ that simulates electrochemical activity in biological neurons by using mathematical functions, as shown here.
 
-
-
-|Biological neural network|Artificial neural network|
-|---|---|
-|![Diagram of a natural neural network.](https://learn.microsoft.com/en-us/training/wwl-data-ai/fundamentals-machine-learning/media/biological-neural-network.png)|![Diagram of an artificial neural network.](https://learn.microsoft.com/en-us/training/wwl-data-ai/fundamentals-machine-learning/media/artificial-neural-network.png)|
-|Neurons fire in response to electrochemical stimuli. When fired, the signal is passed to connected neurons.|Each neuron is a function that operates on an input value (_**x**_) and a _weight_ (_**w**_). The function is wrapped in an _activation_ function that determines whether to pass the output on.|
+| Biological neural network                                                                                                                                         | Artificial neural network                                                                                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![Diagram of a natural neural network.](https://learn.microsoft.com/en-us/training/wwl-data-ai/fundamentals-machine-learning/media/biological-neural-network.png) | ![Diagram of an artificial neural network.](https://learn.microsoft.com/en-us/training/wwl-data-ai/fundamentals-machine-learning/media/artificial-neural-network.png)                            |
+| Neurons fire in response to electrochemical stimuli. When fired, the signal is passed to connected neurons.                                                       | Each neuron is a function that operates on an input value (_**x**_) and a _weight_ (_**w**_). The function is wrapped in an _activation_ function that determines whether to pass the output on. |
 
 Artificial neural networks are made up of multiple _layers_ of neurons - essentially defining a deeply nested function. This architecture is the reason the technique is referred to as _deep learning_ and the models produced by it are often referred to as _deep neural networks_ (DNNs). You can use deep neural networks for many kinds of machine learning problem, including regression and classification, as well as more specialized models for natural language processing and computer vision.
 
@@ -61,3 +59,33 @@ The weights in a neural network are central to how it calculates predicted value
  Note
 
 While it's easier to think of each case in the training data being passed through the network one at a time, in reality the data is batched into matrices and processed using linear algebraic calculations. For this reason, neural network training is best performed on computers with graphical processing units (GPUs) that are optimized for vector and matrix manipulation.
+
+[^1]: Deep learning is a fancy type of machine learning that tries to learn like our brains. It uses artificial "brain cells" called neurons in many layers, forming a "deep" network.
+	
+	**Think of it like this:** Imagine a team of people passing information down a line. Each person does a little calculation and decides if the message is important enough to pass on. The final person gives the answer.
+	
+	**How it works:**
+	
+	- **Artificial Neural Networks:** These networks have layers of connected neurons. Each neuron takes in numbers, does some math (using "weights"), and decides whether to send a signal to the next layer.
+	- **Deeply Nested Functions:** Because there are many layers, the whole network is like one big, complex math problem built from smaller ones.
+	- **Learning from Data:** Just like other machine learning, you feed the network examples (like pictures of penguins with their species).
+	- **Adjusting the "Brain":** The network starts with random "weights" (the numbers in the math). It makes a guess, sees if it's wrong, and then slightly adjusts the weights to try to be more correct next time. This process repeats many times until the network gets good at making predictions.
+	
+	**Example - Identifying Penguins:**
+	
+	Imagine you want to teach a computer to tell different types of penguins apart based on their beak length, beak depth, flipper length, and weight.
+	
+	1. You feed these measurements into the first layer of the network.
+	2. Each neuron in the layers does its calculations using its weights.
+	3. The final layer gives you a probability for each penguin type (like 80% Gentoo, 15% Adelie, 5% Chinstrap). The computer guesses the type with the highest probability.
+	
+	**How the Network Learns to Identify Penguins:**
+	
+	- Initially, the network's guesses are probably bad because its weights are random.
+	- You tell the network the _correct_ penguin type for each example you showed it.
+	- The network compares its guess to the correct answer and calculates an "error."
+	- Then, it goes back through the network and slightly changes the weights in each neuron to reduce this error.
+	- It does this over and over with many penguin examples until its guesses become accurate.
+	
+	**Key takeaway:** Deep learning uses many layers of artificial neurons to learn complex patterns from data by constantly adjusting the "strength" (weights) of the connections between these neurons.
+	
