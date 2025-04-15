@@ -1,3 +1,4 @@
+[[TEMP TABLES]]
 ![[Pasted image 20250411073436.png]]
 ![[Pasted image 20250411074756.png]]
 inserting it

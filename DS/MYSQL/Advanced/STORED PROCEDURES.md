@@ -21,7 +21,8 @@ CALL large_salaries();
 gumamit tayo ng [[WHERE statement]] para sa code na to
 
 
-if you want to put complex codes inside a store procedure you're going to have to use a delimiter
+if you want to put complex codes inside a store procedure you're going to have to use a [[STORED PROCEDURES^DELIMITER|DELIMITER]]
+
 
 delimiter tells sql that kung ano lang yung issali sa stored procedure na yun
 so llagyan mo ng begin and end
