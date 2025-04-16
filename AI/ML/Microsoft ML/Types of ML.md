@@ -21,7 +21,7 @@ _Regression_ is a form of supervised machine learning in which the label predic
 
 _Classification_ is a form of supervised machine learning in which the label represents a categorization, or _class_. There are two common classification scenarios.
 
-#### [[Binary classification]]
+#### [[Binary Classification]]
 
 In _binary classification_, the label determines whether the observed item _is_ (or _isn't_) an instance of a specific class. Or put another way, binary classification models predict one of two mutually exclusive outcomes. For example:
 
