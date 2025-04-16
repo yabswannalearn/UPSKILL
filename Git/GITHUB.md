@@ -8,6 +8,6 @@
 - List of the contents
 - Clearly explains the project to others
 
-![[chapter2 (1).pdf]]
+![[UPSKILL/DS/images/chapter2 (1).pdf]]
 
 
