@@ -51,7 +51,8 @@ using bins
 ![[Pasted image 20250415091859.png]]
 TIME BETWEEN EVENTS
 
-LAG
+[[DATE TIME^lag_id|LAG]] 
+
 LEAD
 ![[Pasted image 20250415194030.png]]
 

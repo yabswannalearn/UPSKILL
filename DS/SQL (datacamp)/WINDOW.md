@@ -49,3 +49,18 @@ sliding window
 ![[Pasted image 20250406001150.png]]
 
 ![[Pasted image 20250406001211.png]]
+
+![[Pasted image 20250417063403.png]]
+
+![[Pasted image 20250417063759.png]]
+[[ORDER BY keyword]]
+![[Pasted image 20250417063808.png]]
+order by with window functions
+
+![[Pasted image 20250417064336.png]]
+lag, makikita mo to sa [[DATE TIME]] 
+
+partition by with window
+
+![[Pasted image 20250417065034.png]]
+![[Pasted image 20250417065104.png]]
