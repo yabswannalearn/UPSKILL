@@ -49,3 +49,33 @@ aggregation with series
 ![[Pasted image 20250415091850.png]]
 using bins
 ![[Pasted image 20250415091859.png]]
+TIME BETWEEN EVENTS
+
+LAG
+LEAD
+![[Pasted image 20250415194030.png]]
+
+1. **`LAG()` = Look Backwards**
+    
+    - **What it does:** For the _current_ row you're looking at, `LAG()` lets you grab a value from the _previous_ row in your ordered list.
+    - **Simple Idea:** "What was the value _yesterday_?"
+    - **Use Case:** Compare the current row's value to the previous one (e.g., compare today's sales to yesterday's sales).
+    - **Example:** If you have sales for Mon, Tue, Wed:
+        - On the Wednesday row, `LAG(sales)` gives you Tuesday's sales.
+        - On the Tuesday row, `LAG(sales)` gives you Monday's sales.
+        - On the Monday row (the first one), `LAG(sales)` gives you `NULL` (nothing) because there's no previous row.
+2. **`LEAD()` = Look Forwards**
+    
+    - **What it does:** For the _current_ row you're looking at, `LEAD()` lets you grab a value from the _next_ row in your ordered list.
+    - **Simple Idea:** "What will the value be _tomorrow_?"
+    - **Use Case:** Compare the current row's value to the next one (e.g., compare today's sales to tomorrow's predicted sales).
+    - **Example:** If you have sales for Mon, Tue, Wed:
+        - On the Monday row, `LEAD(sales)` gives you Tuesday's sales.
+        - On the Tuesday row, `LEAD(sales)` gives you Wednesday's sales.
+        - On the Wednesday row (the last one), `LEAD(sales)` gives you `NULL` (nothing) because there's no next row.
+
+**The Super Simple Key:**
+
+- `LAG()` accesses the **past** (previous row).
+- `LEAD()` accesses the **future** (next row).
+![[Pasted image 20250415194523.png]]
