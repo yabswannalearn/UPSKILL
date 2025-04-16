@@ -64,3 +64,8 @@ partition by with window
 
 ![[Pasted image 20250417065034.png]]
 ![[Pasted image 20250417065104.png]]
+
+LEAD
+![[Pasted image 20250417073317.png]]
+![[Pasted image 20250417073712.png]]
+

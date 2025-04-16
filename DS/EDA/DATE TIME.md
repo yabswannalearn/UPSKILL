@@ -80,3 +80,4 @@ LEAD
 - `LAG()` accesses the **past** (previous row).
 - `LEAD()` accesses the **future** (next row).
 ![[Pasted image 20250415194523.png]]
+![[Pasted image 20250417071644.png]]
