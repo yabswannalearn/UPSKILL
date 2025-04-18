@@ -1,6 +1,7 @@
 [[WINDOW FUNCTIONS]]
 
 
+
 - **`PARTITION BY`**: Ito ay ginagamit para hatiin ang mga row (linya ng data) mo sa mas maliliit na grupo. Isipin mo na parang hinahati mo ang mga estudyante base sa kanilang section.
 - **`RANK()`**: Nagbibigay ito ng "rank" o posisyon sa bawat row sa loob ng isang grupo. Kung may magkapareho ng value (halimbawa, parehong grado), pareho din ang rank nila, pero lalaktawan ang susunod na rank number (e.g., 1, 2, 2, 4).
 - **`RANK() OVER (PARTITION BY ...)`**: Pinagsasama nito ang dalawa. Nagra-rank ka (`RANK()`) sa bawat row, pero ang pagra-rank na ito ay _inuulit_ para sa bawat grupo na ginawa ng `PARTITION BY`.
@@ -19,8 +20,7 @@ SELECT
   Branch,
   TotalSales,
   RANK() OVER (PARTITION BY Branch ORDER BY TotalSales DESC) AS RankInBranch
-FROM SalesData;
-
+FROM SalesData; 
 ```
 
 - **`PARTITION BY Branch`**: Hahatiin nito ang data kada branch (e.g., lahat ng taga-Manila Branch magkakasama, lahat ng taga-Cebu Branch magkakasama).

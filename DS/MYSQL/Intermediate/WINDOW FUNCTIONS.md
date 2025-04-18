@@ -98,3 +98,23 @@ in this code we have DENSE_RANK() kung saan kapag nag unlike sa rank() which pag
 
 https://www.youtube.com/watch?v=rIcB4zMYMas
 great yt vid tutorial
+
+PAGING
+NTILE()
+
+![[Pasted image 20250418120411.png]]
+
+![[Pasted image 20250418120436.png]]
+
+![[Pasted image 20250418120455.png]]
+
+using window function with aggregate functions:
+![[Pasted image 20250418122159.png]]
+![[Pasted image 20250418122204.png]]
+and with partition by
+![[Pasted image 20250418122216.png]]
+
+FRAMES:
+
+`RANGE BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING`
+

@@ -77,7 +77,7 @@ LEAD
 
 **The Super Simple Key:**
 
-- `LAG()` accesses the **past** (previous row).
-- `LEAD()` accesses the **future** (next row).
+- [[Lag]] accesses the **past** (previous row).
+- [[Lead]] accesses the **future** (next row).
 ![[Pasted image 20250415194523.png]]
 ![[Pasted image 20250417071644.png]]
