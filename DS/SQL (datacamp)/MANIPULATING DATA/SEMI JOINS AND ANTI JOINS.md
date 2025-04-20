@@ -1,6 +1,7 @@
 
 ![[Pasted image 20250325100104.png]]
 [[UPSKILL/DS/MYSQL/Intermediate/SUBQUERIES]]
+
 ![[Pasted image 20250325095229.png]]
 
 anti join
