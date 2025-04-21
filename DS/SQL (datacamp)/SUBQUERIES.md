@@ -18,3 +18,11 @@ so gagawa ka ng isang query tapos ilalagay mo sa from ng main query
 # Nested subqueries
 
 ![[Pasted image 20250405070922.png]]
+
+FROM, WHERE AND SELECT
+
+|**Clause**|**Purpose**|**Result Type**|**Use Cases**|
+|---|---|---|---|
+|**WHERE**|Filters rows based on values from another query (used for comparison).|A single value or set of values.|Filtering data (e.g., checking if a value exists).|
+|**FROM**|Treats the subquery as a derived table for further processing (joins, aggregations, etc.).|Table-like result (a temporary table).|Aggregation, filtering, or joining.|
+|**SELECT**|Returns calculated values or derived columns for each row.|A scalar value (e.g., number, string).|Adding calculated fields (e.g., rank, totals).|

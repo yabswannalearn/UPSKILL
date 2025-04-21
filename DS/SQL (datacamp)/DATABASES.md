@@ -57,3 +57,9 @@ SO GANITO
 sa transactions table merong primary key and foreign key
 and sa customers table merong primary key
 so ang foreign key sa transactions ay yung primary key sa customers, ang foreign key ay isang primary key sa isang table pero nasa ibang table sya, kaya magiging foreign key sya dun if hindi yun yung primary key nya
+
+
+![[Pasted image 20250420162529.png]]
+create table
+
+insert table

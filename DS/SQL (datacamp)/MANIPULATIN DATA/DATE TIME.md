@@ -1,5 +1,8 @@
 ![[Pasted image 20250413190425.png]]
 ![[Pasted image 20250413190435.png]]
+INTERVALS
+![[Pasted image 20250420162100.png]]
+
 
 
 ISO STANDARD
