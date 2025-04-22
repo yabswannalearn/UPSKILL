@@ -84,3 +84,26 @@ LEAD
 - [[Lead]] accesses the **future** (next row).
 ![[Pasted image 20250415194523.png]]
 ![[Pasted image 20250417071644.png]]
+
+
+Retrieving current time and dates
+
+now()
+CURRENT_TIMESTAMP
+CURRENT_DATE
+CURRENT_TIME
+
+
+so with cast()
+
+ you can cast the now() to date and time
+![[Pasted image 20250421183720.png]]
+this code means yung output ay walang decimal, kapag 1 yan, 1 decimal point
+
+![[Pasted image 20250422081237.png]]
+
+EXTRACT OR DATE_PART
+
+![[Pasted image 20250422081429.png]]
+
+DATE_TRUNC
