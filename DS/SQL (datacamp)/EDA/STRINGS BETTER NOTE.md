@@ -64,3 +64,14 @@ RPAD
 
 ![[Pasted image 20250422125603.png]]
 naglalagay ng whitespace sa after ng first name tapos nag cconcat or pinagssama yung last_name
+
+Full text search
+![[Pasted image 20250422180513.png]]
+
+create type 
+![[Pasted image 20250422180946.png]]
+![[Pasted image 20250422181006.png]]
+
+![[Pasted image 20250422181029.png]]
+![[Pasted image 20250422181131.png]]
+![[Pasted image 20250422181215.png]]
