@@ -8,7 +8,11 @@ range
 
 ![[Pasted image 20250423090921.png]]
 variance
+![[Pasted image 20250423105009.png]]
+probability
 
+![[Pasted image 20250423105934.png]]
+conditional probability
 
 
 ---
