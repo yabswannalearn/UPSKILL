@@ -1,4 +1,4 @@
-- **Professional Speak:** A clause used with the `GROUP BY` statement to generate subtotals for all possible combinations of the specified grouping columns. It provides aggregate results for every level of the grouping hierarchy and also for all cross-combinations.
+f- **Professional Speak:** A clause used with the `GROUP BY` statement to generate subtotals for all possible combinations of the specified grouping columns. It provides aggregate results for every level of the grouping hierarchy and also for all cross-combinations.
 - **Simple Speak:** Similar to `ROLLUP`, but it's more thorough. If you're summarizing sales by City and Region, `CUBE` will give you:
     - Total sales for each City within each Region.
     - Total sales for each Region (summing up all its cities).
@@ -23,4 +23,7 @@ non hierarchial [[Roll up]]
 
 ![[Pasted image 20250418150802.png]]
 
-![[Pasted image 20250418150808.png]]![[Pasted image 20250418150814.png]]
+
+---
+![[Pasted image 20250424200700.png]]
+![[Pasted image 20250424200746.png]]

@@ -10,7 +10,7 @@ last_name,
 age,
 CASE 
 	WHEN age <= 30 THEN 'YOUNG' 
-    WHEN age BETWEEN 31 and 50 THEN 'OLD'
+    WHEN age FBETWEEN 31 and 50 THEN 'OLD'
     WHEN age >= 50 THEN 'mamamatay kna'
 END AS AGE_BRACKET
 FROM employee_demographics;

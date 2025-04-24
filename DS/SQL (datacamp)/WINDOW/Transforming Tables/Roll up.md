@@ -24,3 +24,4 @@ GROUP BY ROLLUP (Region, City);
 ![[Pasted image 20250418150708.png]]
 ![[Pasted image 20250418150720.png]]
 
+---
