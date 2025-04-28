@@ -14,3 +14,4 @@ remanider: %
 `>`greater than
 `>=` greater than or equal
 ![[Pasted image 20250425150550.png]]
+

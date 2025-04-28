@@ -1,0 +1,44 @@
+papasukan nya lang lahat ng nasa list
+
+```
+basic_list = [1,2,3]
+basic_tuple = (1,2,3)
+baisc_set = {1,2,3}
+basic_dict = {1:'one', 2:'two', 3:'three'}
+basic_string = 'one two three'
+basic_num = 3
+
+for x in basic_num:
+
+    print(x)
+
+```
+
+so output nya yan lahat yan
+
+
+range()
+
+ginagamit to sa mga numbers
+
+range is parang slicing
+
+```
+for nested_list in practice_list:
+
+    for nume in nested_list:
+
+        if nume > 100:
+
+            break
+
+        if nume < 10:
+
+            continue
+
+        if nume < 50:
+
+            print(nume)
+```
+
+using [[If]] here 
