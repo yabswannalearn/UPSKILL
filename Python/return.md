@@ -20,3 +20,7 @@
 **Easy way to remember:**
 
 > `return` = "Here's your answer, catch it!"
+
+![[Pasted image 20250429161826.png]]
+function documentation
+
