@@ -42,3 +42,11 @@ for nested_list in practice_list:
 ```
 
 using [[If]] here 
+
+![[Pasted image 20250506165716.png]]
+yung height na word dito, kahit ano yan. pwede yan pwedeng x lang
+
+![[Pasted image 20250506165837.png]]
+using enumerate here
+![[Pasted image 20250506170614.png]]
+enumerate just adds index!!!!!

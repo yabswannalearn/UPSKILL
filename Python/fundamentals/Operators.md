@@ -15,3 +15,4 @@ remanider: %
 `>=` greater than or equal
 ![[Pasted image 20250425150550.png]]
 
+![[Pasted image 20250505233340.png]]

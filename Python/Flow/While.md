@@ -37,3 +37,9 @@ while even < 100:
 
 print(list)
 ```
+
+![[Pasted image 20250506165029.png]]
+
+![[Pasted image 20250506165132.png]]
+using while with [[If]]
+![[Pasted image 20250506165534.png]]
