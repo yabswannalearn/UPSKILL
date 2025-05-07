@@ -50,3 +50,9 @@ yung height na word dito, kahit ano yan. pwede yan pwedeng x lang
 using enumerate here
 ![[Pasted image 20250506170614.png]]
 enumerate just adds index!!!!!
+
+![[Pasted image 20250506213735.png]]
+how to use  for loop with a dictionary
+
+with 2d [[UPSKILL/Python/libraries/numpy/array|array]]
+![[Pasted image 20250506214805.png]]
