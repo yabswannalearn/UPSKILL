@@ -1,3 +1,5 @@
+**Subsetting** means selecting **specific parts** of your data—like picking specific rows, columns, or both—from a DataFrame (like a table in Excel).
+
 ![[Pasted image 20250507215847.png]]
 subset rows
 ![[Pasted image 20250507215905.png]]
