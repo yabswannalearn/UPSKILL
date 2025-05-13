@@ -5,10 +5,10 @@ There are different types of AI
 Robotics
 [[Transformers]]
 [[Deep Learning]]
-[[Clustering]]
+[[UPSKILL/AI/ML/Microsoft ML/Clustering]]
 [[Multiclass classification]]
 [[Binary Classification]]
-[[Regression]]
+[[UPSKILL/AI/ML/Microsoft ML/Regression]]
 [[Machine Learning]]
 
 

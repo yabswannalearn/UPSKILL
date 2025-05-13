@@ -12,3 +12,9 @@ all of the null will return 0
 summary statistics for multiple level with margins=True
 
 ![[Pasted image 20250508204755.png]]
+
+![[Pasted image 20250510203634.png]]
+![[Pasted image 20250510203641.png]]
+![[Pasted image 20250510205735.png]]
+
+![[Pasted image 20250510205744.png]]

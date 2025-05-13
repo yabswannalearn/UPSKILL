@@ -1,0 +1,7 @@
+[[Binary Classification]]
+[[Multiclass classification]]
+
+![[Pasted image 20250513180445.png]]
+support vector machine
+![[Pasted image 20250513180626.png]]
+![[Pasted image 20250513180637.png]]

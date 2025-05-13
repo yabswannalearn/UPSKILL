@@ -114,3 +114,5 @@ pwede rin `*args and **args lang
 
 
 ![[Pasted image 20250429151506.png]]
+
+![[Pasted image 20250511221726.png]]
