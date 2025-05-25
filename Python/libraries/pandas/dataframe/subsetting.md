@@ -12,3 +12,6 @@ by date
 using [[Operators]] ![[Pasted image 20250507220015.png]]
 using .isin()
 ![[Pasted image 20250507220036.png]]![[Pasted image 20250507221229.png]]
+
+![[Pasted image 20250523223115.png]]
+![[Pasted image 20250523223152.png]]

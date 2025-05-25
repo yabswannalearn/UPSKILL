@@ -1,5 +1,5 @@
 ![[Pasted image 20250407210912.png]]
-[[JOINING]]
+[[UPSKILL/DS/SQL (datacamp)/MANIPULATING DATA/JOINING]]
 
 Coalesce - **COALESCE** in SQL is like saying: "Give me the first value in this list that is _not_ empty (NULL)."
 

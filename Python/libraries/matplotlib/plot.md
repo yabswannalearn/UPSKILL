@@ -20,3 +20,5 @@ rotating the labels
 ![[Pasted image 20250511161849.png]]
 
 ![[Pasted image 20250511162444.png]]
+scatter plot
+![[Pasted image 20250523222546.png]]

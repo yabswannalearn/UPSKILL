@@ -1,4 +1,4 @@
-# [[JOINING]] [[JOINS statement]]
+# [[UPSKILL/DS/SQL (datacamp)/MANIPULATING DATA/JOINING]] [[JOINS statement]]
 ![[Pasted image 20250405075419.png]]
 
 # [[UPSKILL/DS/SQL (datacamp)/SUBQUERIES|SUBQUERIES]] [[UPSKILL/DS/MYSQL/Intermediate/SUBQUERIES|SUBQUERIES]]

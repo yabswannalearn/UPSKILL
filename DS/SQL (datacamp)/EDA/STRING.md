@@ -72,6 +72,6 @@ UPDATING THE COLUMN
 ![[Pasted image 20250412070017.png]]
 ![[Pasted image 20250412070035.png]]
 ![[Pasted image 20250412071912.png]]
-[[JOINING]] [[JOINS statement]]
+[[UPSKILL/DS/SQL (datacamp)/MANIPULATING DATA/JOINING]] [[JOINS statement]]
 
 ![[Pasted image 20250412072920.png]]
