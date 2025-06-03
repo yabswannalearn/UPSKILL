@@ -1,0 +1,1 @@
+A confidence interval is a **calculated range of values** based on a small sample, which you believe **likely contains the true value** for the entire population. It's like saying, "I can't tell you the exact answer, but I'm very confident it lies somewhere in this range."

@@ -1,0 +1,5 @@
+![[Pasted image 20250530191938.png]]
+[[Scatter Plot]]
+![[Pasted image 20250530192027.png]]
+count plot, that is [[Bar plots]]
+![[Pasted image 20250530192107.png]]

@@ -1,3 +1,5 @@
+seaborn [[UPSKILL/Python/libraries/seaborn/colors|colors]]
+
 | Code  | Color   |
 | ----- | ------- |
 | `'r'` | red     |
