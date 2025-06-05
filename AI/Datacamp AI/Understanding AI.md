@@ -1,15 +1,15 @@
-[[Types of ML]]
+[[UPSKILL/AI/ML/Microsoft ML/Types of ML]]
 
 There are different types of AI
 
 Robotics
-[[Transformers]]
+[[UPSKILL/AI/ML/Microsoft ML/Transformers]]
 [[UPSKILL/AI/ML/Microsoft ML/Deep Learning]]
 [[UPSKILL/AI/ML/Microsoft ML/Clustering]]
-[[Multiclass classification]]
-[[Binary Classification]]
+[[UPSKILL/AI/ML/Microsoft ML/Multiclass classification]]
+[[UPSKILL/AI/ML/Microsoft ML/Binary Classification]]
 [[UPSKILL/AI/ML/Microsoft ML/Regression]]
-[[Machine Learning]]
+[[UPSKILL/AI/ML/Microsoft ML/Machine Learning]]
 
 
 

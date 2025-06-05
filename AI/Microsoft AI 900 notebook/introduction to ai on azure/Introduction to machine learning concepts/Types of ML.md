@@ -21,7 +21,7 @@ _Regression_ is a form of supervised machine learning in which the label predic
 
 _Classification_ is a form of supervised machine learning in which the label represents a categorization, or _class_. There are two common classification scenarios.
 
-#### [[UPSKILL/AI/ML/Microsoft ML/Binary Classification]]
+#### [[UPSKILL/AI/Microsoft AI 900 notebook/introduction to ai on azure/Introduction to machine learning concepts/Binary Classification]]
 
 In _binary classification_, the label determines whether the observed item _is_ (or _isn't_) an instance of a specific class. Or put another way, binary classification models predict one of two mutually exclusive outcomes. For example:
 
@@ -31,7 +31,7 @@ In _binary classification_, the label determines whether the observed item _is
 
 In all of these examples, the model predicts a binary _true_/_false_ or _positive/negative_ prediction for a single possible class.
 
-#### [[UPSKILL/AI/ML/Microsoft ML/Multiclass classification]]
+#### [[UPSKILL/AI/Microsoft AI 900 notebook/introduction to ai on azure/Introduction to machine learning concepts/Multiclass classification]]
 
 _Multiclass classification_ extends binary classification to predict a label that represents one of multiple possible classes. For example,
 

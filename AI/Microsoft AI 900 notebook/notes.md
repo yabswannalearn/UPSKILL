@@ -103,7 +103,7 @@ JupyterLab - IDE for jupyter notebooks
 [[UPSKILL/AI/ML/Microsoft ML/Regression|Regression]]/[[UPSKILL/AI/ML/Datacamp/Supervised Learning/Regression|Regression]] 
 ![[Pasted image 20250603144228.png]]
 
-[[Classification]] [[Binary Classification]] [[Multiclass classification]]
+[[Classification]] [[UPSKILL/AI/ML/Microsoft ML/Binary Classification]] [[UPSKILL/AI/ML/Microsoft ML/Multiclass classification]]
 ![[Pasted image 20250603153247.png]]
 
 [[UPSKILL/AI/ML/Microsoft ML/Clustering|Clustering]]/[[UPSKILL/AI/ML/Datacamp/Unsupervised Learning/Clustering|Clustering]]
@@ -141,3 +141,40 @@ using machine learning for anomaly detection is more efficient and accurate
 [[UPSKILL/AI/ML/Datacamp/Large Language Models/Natural Language Processing|Natural Language Processing]]/[[UPSKILL/AI/ML/Datacamp/Deep Learning/Natural Language Processing|Natural Language Processing]] - machine learning can understand the context of a corpus (a body of related text)
 ![[Pasted image 20250603164033.png]]
 ![[Pasted image 20250603164117.png]]
+
+Conversational AI - technology that can participate in conversations with humans
+Responsible AI - focuses on ethical, transparent, accountable use of AI technologies
+- Fairness -  should treat all people fairly
+- Reliability and Safety - should perform reliably and safely
+- Privacy and Security - should be secure and respect privacy
+- Inclusiveness - should empower everyone and engage people
+- Transparency - should be understandable
+- Accountability - people should be accountable for AI systems
+
+Azure Cognitive Services - a comprehensive family of AI services
+	- Decision
+		- anomaly detector - identify potential problems early on
+		- content moderator - detect potentially offensive or unwanted content
+		- personaliser - create rich, personalised experiences for every user
+	- Language
+		- language understanding - build natural language understanding into apps, bots and IoT devices
+		- QnA maker - create a conversational question and answer layer over your data
+		- text analytics - detect sentiment, key phrases and named entities
+		- translator - detect and translate more than 90 supported languages
+	- Speech
+		- speech to text - transcribe audible speech into readable, searchable text
+		- text to speech - convert text to lifelike speech for more natural interfaces
+		- speech translation
+		- speaker recognition
+	- Vision
+		- Computer vision
+		- Custom vision
+		- Face
+API
+![[Pasted image 20250604193549.png]]
+
+Knowledge Mining - discipling in AI that uses a combination of intelligent services to quickly learn from vast amounts of information
+![[Pasted image 20250604193731.png]]
+![[Pasted image 20250604193801.png]]
+![[Pasted image 20250604193827.png]]
+![[Pasted image 20250604193907.png]]

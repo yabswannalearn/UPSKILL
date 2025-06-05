@@ -1,5 +1,5 @@
-[[Binary Classification]]
-[[Multiclass classification]]
+[[UPSKILL/AI/ML/Microsoft ML/Binary Classification]]
+[[UPSKILL/AI/ML/Microsoft ML/Multiclass classification]]
 
 ![[Pasted image 20250513180445.png]]
 support vector machine

@@ -46,7 +46,7 @@ This outlines the typical steps involved in a data science project, explained si
     * A "model" represents the relationship between data and the business problem.
     * "Machine learning" teaches computers to learn from data without explicit programming.
     * Using various machine learning methods (supervised, unsupervised, reinforcement) to train the models [[Data Concepts]].
-    * [[Binary Classification]], [[UPSKILL/AI/ML/Microsoft ML/Clustering]], [[UPSKILL/AI/ML/Microsoft ML/Deep Learning]]. [[Multiclass classification]]. [[UPSKILL/AI/ML/Microsoft ML/Regression]]. [[Transformers]]
+    * [[UPSKILL/AI/ML/Microsoft ML/Binary Classification]], [[UPSKILL/AI/ML/Microsoft ML/Clustering]], [[UPSKILL/AI/ML/Microsoft ML/Deep Learning]]. [[UPSKILL/AI/ML/Microsoft ML/Multiclass classification]]. [[UPSKILL/AI/ML/Microsoft ML/Regression]]. [[UPSKILL/AI/ML/Microsoft ML/Transformers]]
 * **Why it's Important:** Enables businesses to make predictions and automate decisions.
 
 **6. Deploy Data Models:**
