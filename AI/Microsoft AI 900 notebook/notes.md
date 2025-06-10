@@ -178,3 +178,60 @@ Knowledge Mining - discipling in AI that uses a combination of intelligent servi
 ![[Pasted image 20250604193801.png]]
 ![[Pasted image 20250604193827.png]]
 ![[Pasted image 20250604193907.png]]
+
+Azure Face service - provides AI algorithms that detect, recognize and analyze human faces in images
+- 27 pre defined face landmarks
+- can check accessories
+- age
+- blur
+- emotion
+- exposure
+- facial hair
+- gender
+- glasses
+- hair
+- head pose
+- make up
+- mask
+- noise
+- occlusion - blocking or not
+- smile
+
+Speech and translate service - translation service
+- 90 languages and dialects
+- even klingon
+- it uses neural machine translation
+- custom translator - allows you to extend the service for translation based on your business and domain use
+
+Azure Speech service - speech synthesis service stt, tts, and speech translation
+
+Text Analytics
+![[Pasted image 20250606235452.png]]
+![[Pasted image 20250606235755.png]]
+
+optical character recognition (OCR) - extracting printed or handwritten text into a digital and editable format
+- photos of street signs
+- products
+- documents
+- invoices
+- bills
+- financial reports
+- articles
+
+OCR api and Read api
+![[Pasted image 20250607000020.png]]
+performed by computer vision SDK
+
+Azure Form Recognizer - specialize OCR service that translates printed text into a digital and editable content and preserves that structure and relationship of form like data
+- custom models - allows you to extract text, key/value pairs, selection marks and table data from forms
+	- unsupervised learning
+	- supervised learning
+
+LUIS - language understanding - no code ml service to build natural language into apps, bots and IOT service
+NLU - natural language understanding - the ability to transform a linguistic statement to a representation that enables you to understand your users naturally
+![[Pasted image 20250607001412.png]]
+![[Pasted image 20250607001436.png]]
+
+QnAMaker - cloud based NLP service that allows you to create natural conversational layer
+
+Azure Bot Service - intelligent, serverless bot service that scales on demand. Used for creating publishing and managing bots
