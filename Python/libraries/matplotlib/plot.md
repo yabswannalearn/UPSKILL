@@ -7,7 +7,7 @@ x - x label
 y - y label
 
 
- [[Histograms]]
+ [[UPSKILL/DS/DATA VISUALIZATION/DATACAMP/Histograms]]
 ![[Pasted image 20250511161344.png]]
 increasing the size of bins
 ![[Pasted image 20250511161432.png]]
