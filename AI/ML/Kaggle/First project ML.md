@@ -94,4 +94,7 @@ def get_mae(max_leaf_nodes, train_X, val_X, train_y, val_y):
 ```
 best_tree_size = 100
 final_model = DecisionTreeRegressor(max_leaf_nodes = best_tree_size)
-final_model.fit(X, y)```
+final_model.fit(X, y)
+```
+
+# [[Random Forest]]
